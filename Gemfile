@@ -49,7 +49,7 @@ group :development do
   gem 'sqlite3', '~> 1.4'
   gem 'guard', '~> 2.16', '>= 2.16.2'
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
-  gem 'better_errors', '~> 2.7', '>= 2.7.1'
+  gem 'better_errors', '~> 2.8'
 end
 
 group :production do
